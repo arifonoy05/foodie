@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="164" height="174.126" viewBox="0 0 164 174.126">
+  <g id="Group_551" data-name="Group 551" transform="translate(-169 -674.874)">
+    <g id="bed" transform="translate(218.774 674.874)">
+      <path id="Path_674" data-name="Path 674" d="M14.8,231.076h56a4.179,4.179,0,0,0,0-8.358h-56a4.179,4.179,0,0,0,0,8.358Z" transform="translate(-9.23 -201.056)" fill="#855c00"/>
+      <path id="Path_675" data-name="Path 675" d="M273.212,153.983A2.214,2.214,0,0,0,271,156.195v2.868h17.118v-2.868a2.214,2.214,0,0,0-2.212-2.212Z" transform="translate(-235.463 -141.335)" fill="#855c00"/>
+      <path id="Path_676" data-name="Path 676" d="M38.157,72.391A6.153,6.153,0,0,1,44.3,66.245H57a6.121,6.121,0,0,1,4.179,1.645,6.122,6.122,0,0,1,4.179-1.645H78.049a6.153,6.153,0,0,1,6.146,6.146v2.868h6.385V61.71A4.179,4.179,0,0,0,86.4,57.531H35.951a4.179,4.179,0,0,0-4.179,4.179V75.259h6.385Z" transform="translate(-27.606 -57.531)" fill="#855c00"/>
+      <path id="Path_677" data-name="Path 677" d="M112.673,153.983a2.214,2.214,0,0,0-2.212,2.212v2.868h17.118v-2.868a2.214,2.214,0,0,0-2.212-2.212Z" transform="translate(-95.976 -141.335)" fill="#855c00"/>
+      <path id="Path_678" data-name="Path 678" d="M0,316.452v18.1H3.934v-7.173H63.206v7.173H67.14v-18.1Z" transform="translate(0 -282.499)" fill="#855c00"/>
+    </g>
+    <text id="Finibus_Bonorum_et_Malorum" data-name="Finibus Bonorum
+et Malorum" transform="translate(251 759)" fill="#232323" font-size="20" font-family="Playfair Display" font-weight="700"><tspan x="-81.17" y="0">Finibus Bonorum</tspan><tspan x="-53.65" y="27">et Malorum</tspan></text>
+    <rect id="Rectangle_69" data-name="Rectangle 69" width="140" height="33" rx="16.5" transform="translate(181 816)" fill="#855c00"/>
+    <text id="Book_now" data-name="Book now" transform="translate(252 836)" fill="#fff" font-size="13" font-family="Poppins-Medium, Poppins" font-weight="500"><tspan x="-31.408" y="0">Book now</tspan></text>
+  </g>
+</svg>

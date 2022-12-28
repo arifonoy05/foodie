@@ -1,0 +1,31 @@
+.to-form{
+    background: #1C1C1C;
+    padding: 59px 0px;
+}
+.form-det{
+    text-align: center;
+    color: #c29e51;
+}
+.form-det h2{}
+.to-btn {
+    text-align: center;
+}
+.to-btn button {
+    border-radius: 0 35% 0 35%;
+    padding: 15px 45px;
+    font-size: 22px;
+    font-weight: 600;
+    background: transparent;
+    color: #c29e51;
+    border: 2px solid #c29e51;
+}
+.to-btn button:hover{
+    background-color: #c29e51;
+    color: white;
+    border-color: #c29e51;
+}
+@media only screen and (max-width: 768px){
+    .to-btn{
+        text-align: center;
+    }
+}

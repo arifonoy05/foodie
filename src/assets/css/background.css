@@ -1,0 +1,85 @@
+
+.bg {
+    position: relative;
+    display: inline-block;
+    animation: rotation 2s infinite linear;
+  }
+  
+  @keyframes rotation {
+    from {
+      transform: rotate(0deg);
+    }
+    to {
+      transform: rotate(360deg);
+    }
+  }
+
+.bg-1{
+  position: absolute;
+  top: 20%;
+  left: 0;
+}
+
+.bg-2{
+  position: absolute;
+  top: 30%;
+  left: 20%;
+}
+
+.bg-3{
+  position: absolute;
+  bottom: 10%;
+  left: 45%;
+}
+
+.bg-4{
+  position: absolute;
+  top: 30%;
+  left: 30%;
+}
+
+.bg-5{
+  position: absolute;
+  top: 20%;
+  left: 50%;
+}
+
+.bg-6{
+  position: absolute;
+  top: 30%;
+  left: 70%;
+}
+
+.bg-7{
+  position: absolute;
+  bottom: 5%;
+  right: 10%;
+}
+
+.bg-8{
+  position: absolute;
+  bottom: 15%;
+  right: 20%;
+}
+
+.bg-9{
+  position: absolute;
+  bottom: 15%;
+  right: 30%;
+}
+.bg-10{
+  position: absolute;
+  bottom: 20%;
+  left: 0;
+}
+
+.bg-11{
+  position: absolute;
+  bottom: 50%;
+  right: 5%;
+}
+.bg-12 {
+  position: absolute;
+  bottom: 76%;
+  right: 7%;
+}

@@ -1,0 +1,10 @@
+footer{
+    background-color: #c29e51;
+}
+footer p {
+    margin: 0;
+    padding: 11px 0 10px;
+    font-size: 14px;
+    color: white;
+}
+.footer-name{}

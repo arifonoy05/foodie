@@ -1,0 +1,30 @@
+.kitchen {
+    background-color: burlywood;
+    padding: 20px 0;
+}
+.kitchenImg{
+    width: 100%;
+}
+.kitchenImg img {
+    width: 100%;
+    height: 400px;
+}
+.content{
+    color: white    ;
+    background: rgb(32, 32, 32);
+    text-align: center;
+    padding: 140px 10% 140px;
+}
+.pd-0{
+    padding-left: 0;
+    padding-right: 0;
+}
+@media only screen and (max-width: 768px){
+    .content {
+        padding: 5% 10%;
+    }
+    .kitchenImg img {
+        width: 100%;
+        height: auto;
+    }
+}

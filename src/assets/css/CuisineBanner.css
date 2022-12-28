@@ -1,0 +1,24 @@
+.CuisineBanner {
+    background-size: cover;
+    height: 100vh;
+    margin-top: -140px;
+}
+.text {
+    text-align: center;
+    padding-top: 30%;
+}
+.text h1, .text p{
+    color: white;
+}
+.text p {
+    padding: 0 33%;
+}
+
+@media only screen and (max-width: 768px){
+    .text {
+        padding-top: 65%;
+    }
+    .text p {
+        padding: 0 15%;
+    }
+}

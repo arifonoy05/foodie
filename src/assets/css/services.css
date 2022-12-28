@@ -1,0 +1,59 @@
+.service {
+    width: 100%;
+    margin: 31px auto;
+}
+.service img{
+    width: 80%;
+}
+.border-odd{
+    border-radius: 0 35% 0 35%;
+}
+.border-even{
+    border-radius: 35% 0 35% 0;
+}
+.serv-wrapper {
+    margin-bottom: 30px;
+    min-height: 165px;
+    text-align: center;
+}
+.serv-wrapper:hover{
+    text-decoration: none;
+}
+.serv-icon{}
+.serv-icon img{}
+.serv-wrapper p{}
+.serv-wrapper a {
+    color: inherit;
+}
+.serv-wrapper a:hover{
+    text-decoration: none;
+}
+.card-hover{}
+
+.card-hover {
+    width: 100%;
+    font-size: 22px;
+    display: inline-block;
+    color: white;
+    /* background-image: linear-gradient(to left, rgba(255, 253, 253, 0) 50%, rgb(194, 158, 81) 50%);
+    background-position-x: right; */
+    background-size: 200%;
+    transition: 0.4s ease-out;
+}
+.card-hover:hover {
+    color: #ffffff;
+    background-position: left;
+    padding-bottom: 25%;
+    padding-top: 20%;
+}
+
+/* .serv-overlay{
+    position: absolute;
+    min-height: inherit;
+} */
+
+@media only screen and (max-width: 768px){
+    .service {
+        margin: 30px auto;
+    }
+}

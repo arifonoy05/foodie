@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="164" height="180.56" viewBox="0 0 164 180.56">
+  <g id="Group_550" data-name="Group 550" transform="translate(-457 -668.44)">
+    <g id="coffee" transform="translate(514 668.44)">
+      <path id="Path_679" data-name="Path 679" d="M88.033,247.137a5.587,5.587,0,0,0-4.431-2.162H78.389V241H39.147v11.806a19.477,19.477,0,0,0,8.409,16.021H39.161v3.464H78.376v-3.464H69.981a19.646,19.646,0,0,0,4.618-4.487h3.8a9.669,9.669,0,0,0,9.394-7.334l1.262-5.047a5.587,5.587,0,0,0-1.023-4.823ZM85.7,251.12l-1.262,5.047a6.21,6.21,0,0,1-6.033,4.71H76.638a19.372,19.372,0,0,0,1.752-8.071v-4.367H83.6A2.158,2.158,0,0,1,85.7,251.12Z" transform="translate(-39.147 -213.172)" fill="#855c00"/>
+      <path id="Path_680" data-name="Path 680" d="M165.525,13.658a5.714,5.714,0,0,0-5.708,5.708v3.975h3.464V19.366a2.246,2.246,0,0,1,2.244-2.244h15.9A13.674,13.674,0,0,0,195.084,3.464V0H191.62V3.464a10.206,10.206,0,0,1-10.195,10.195Z" transform="translate(-145.884 0)" fill="#855c00"/>
+      <path id="Path_681" data-name="Path 681" d="M94.424,19.877A10.206,10.206,0,0,1,104.619,9.683h15.9a5.714,5.714,0,0,0,5.708-5.708V0h-3.464V3.975a2.246,2.246,0,0,1-2.244,2.244h-15.9A13.674,13.674,0,0,0,90.96,19.877v3.463h3.464Z" transform="translate(-84.977 0)" fill="#855c00"/>
+    </g>
+    <text id="Finibus_Bonorum_et_Malorum" data-name="Finibus Bonorum
+et Malorum" transform="translate(539 760)" fill="#232323" font-size="20" font-family="Playfair Display" font-weight="700"><tspan x="-81.17" y="0">Finibus Bonorum</tspan><tspan x="-53.65" y="27">et Malorum</tspan></text>
+    <rect id="Rectangle_68" data-name="Rectangle 68" width="140" height="33" rx="16.5" transform="translate(470 816)" fill="#855c00"/>
+    <text id="Order_now" data-name="Order now" transform="translate(539 837)" fill="#fff" font-size="13" font-family="Poppins-Medium, Poppins" font-weight="500"><tspan x="-33.924" y="0">Order now</tspan></text>
+  </g>
+</svg>
